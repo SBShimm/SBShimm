@@ -21,3 +21,10 @@
   <img
        src="https://img.shields.io/badge/Spotify-1DB954?&style=plastic&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/31ppgft54asgvatjdpjncpe5orum?si=f473ddb685c646f1">
 </a>
+
+  
+</br>  
+</br>  
+</br>  
+
+![SBShimm's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBShimm&show_icons=true&theme=dark)
