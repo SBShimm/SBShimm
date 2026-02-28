@@ -49,8 +49,7 @@ My focus is on:
 
 ## Tech Skill
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=plastic&logo=githubcopilot&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Codex Agent](https://img.shields.io/badge/Codex_Agent-10A37F?style=plastic&logo=openai&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=plastic&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?&style=plastic&logo=Python&logoColor=white)
 ![CSharp](https://img.shields.io/badge/CSharp-239120?&style=plastic&logo=CSharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.Net-512BD4?&style=plastic&logo=.Net&logoColor=white)
@@ -73,6 +72,4 @@ My focus is on:
   
 </br>  
 </br>  
-</br>  
-
-![SBShimm's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBShimm&show_icons=true&theme=dark)
+</br>
