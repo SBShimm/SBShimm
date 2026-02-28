@@ -48,16 +48,21 @@ My focus is on:
 
 
 ## Tech Skill
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=plastic&logo=githubcopilot&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=plastic&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?&style=plastic&logo=Python&logoColor=white)
 ![CSharp](https://img.shields.io/badge/CSharp-239120?&style=plastic&logo=CSharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.Net-512BD4?&style=plastic&logo=.Net&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?&style=plastic&logo=TensorFlow&logoColor=white)
 ![pandas](https://img.shields.io/badge/pandas-150458?&style=plastic&logo=pandas&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?&style=plastic&logo=Keras&logoColor=white)
-![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91?&style=plastic&logo=VisualStudio&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?&style=plastic&logo=Oracle&logoColor=white)
+
+## Tools 
+![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91?&style=plastic&logo=VisualStudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)
+
+## AI-Assisted Development
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=plastic&logo=githubcopilot&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=plastic&logo=openai&logoColor=white)
 
 ## Contact
 <a href="mailto:sksungbo@gmail.com">
