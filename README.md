@@ -1,5 +1,50 @@
-- 👋 Hi, I’m @SBShimm
-- 👀 I’m interested in NLP
+# SB
+
+C# Developer with 6+ years of experience  
+Building and operating ERP systems in the .NET ecosystem
+
+---
+
+## About Me
+
+I develop and maintain ERP systems that support
+trade, production, sales, and logistics workflows.
+
+With over 6 years of hands-on experience,
+I have worked extensively on data-driven enterprise applications
+using C#, .NET Framework, MSSQL, and Oracle.
+
+My focus is on:
+
+- Designing stable and maintainable ERP architectures
+- Handling complex business logic and multi-module systems
+- Improving performance in data-intensive environments
+- Maintaining and modernizing legacy enterprise systems
+
+---
+
+## Core Expertise
+
+- C# / .NET Framework
+- WinForms-based ERP applications
+- MSSQL / Oracle DB design & tuning
+- Business process modeling
+- Multi-database environments
+- AI-assisted development workflows
+
+---
+
+## Current Direction
+
+- Deepening understanding of .NET runtime and architecture
+- Exploring NLP and practical AI integration
+- Leveraging GitHub Copilot & Codex Agent for efficient development
+
+---
+
+> Build reliable systems.  
+> Understand business first.  
+> Improve continuously.
 
 
 ## Tech Skill
