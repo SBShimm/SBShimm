@@ -1,68 +1,62 @@
 # SB
 
-C# Developer with 6+ years of experience  
-Building and operating ERP systems in the .NET ecosystem
+C# Developer | ERP Systems | Logistics & Trade Domain Experience
+
+Enterprise-focused developer with 6+ years of experience building and operating business-critical systems in the .NET ecosystem.
 
 ---
 
 ## About Me
 
-I develop and maintain ERP systems that support
-trade, production, sales, and logistics workflows.
+I design and maintain ERP systems covering trade, production, sales, and logistics workflows.
 
-With over 6 years of hands-on experience,
-I have worked extensively on data-driven enterprise applications
-using C#, .NET Framework, MSSQL, and Oracle.
-
-My focus is on:
-
-- Designing stable and maintainable ERP architectures
-- Handling complex business logic and multi-module systems
-- Improving performance in data-intensive environments
-- Maintaining and modernizing legacy enterprise systems
+My experience spans import operations, port logistics planning, and supply chain management, with a strong focus on stable, maintainable, and performance-oriented enterprise applications.
 
 ---
 
-## Core Expertise
+## Domain Experience
 
-- C# / .NET Framework
-- WinForms-based ERP applications
-- MSSQL / Oracle DB design & tuning
-- Business process modeling
-- Multi-database environments
-- AI-assisted development workflows
+### Green Coffee Bean Import & Logistics Management
+
+- Developed ERP modules supporting green coffee bean import processes
+- Managed trade, inventory, and logistics workflows
+- Designed database-driven operational logic for supply chain management
+- Supported end-to-end business processes from import to distribution
+
+### Port & Logistics Planning System (4 years)
+
+- Developed and maintained a port logistics planning platform
+- Designed data-driven planning and scheduling logic
+- Managed high-volume operational workflows
+- Improved system performance in database-heavy environments
 
 ---
 
-## Current Direction
+## Tech Stack
 
-- Deepening understanding of .NET runtime and architecture
-- Exploring NLP and practical AI integration
-- Leveraging GitHub Copilot & Codex Agent for efficient development
+### Languages & Platform
+![CSharp](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Database
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### AI / ML (Interest & Study)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ---
 
-> Build reliable systems.  
-> Understand business first.  
-> Improve continuously.
+## Tools
 
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Codex Agent](https://img.shields.io/badge/Codex_Agent-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
-## Tech Skill
-![Python](https://img.shields.io/badge/Python-3776AB?&style=plastic&logo=Python&logoColor=white)
-![CSharp](https://img.shields.io/badge/CSharp-239120?&style=plastic&logo=CSharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.Net-512BD4?&style=plastic&logo=.Net&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?&style=plastic&logo=TensorFlow&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?&style=plastic&logo=pandas&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?&style=plastic&logo=Keras&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?&style=plastic&logo=Oracle&logoColor=white)
-
-## Tools 
-![VisualStudio](https://img.shields.io/badge/VisualStudio-5C2D91?&style=plastic&logo=VisualStudio&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white)
-
-## AI-Assisted Development
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=plastic&logo=githubcopilot&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=plastic&logo=openai&logoColor=white)
+---
 
 ## Contact
 <a href="mailto:sksungbo@gmail.com">
@@ -74,7 +68,16 @@ My focus is on:
        src="https://img.shields.io/badge/Spotify-1DB954?&style=plastic&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/31ppgft54asgvatjdpjncpe5orum?si=f473ddb685c646f1">
 </a>
 
-  
-</br>  
-</br>  
-</br>
+---
+
+## Current Direction
+
+- Deepening understanding of .NET runtime and architecture
+- Exploring NLP and practical AI integration
+- Leveraging AI-assisted development workflows for productivity
+
+---
+
+> Build reliable systems.  
+> Understand business first.  
+> Improve continuously.
