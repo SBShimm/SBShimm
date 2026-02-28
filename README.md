@@ -8,9 +8,19 @@ Enterprise-focused developer with 6+ years of experience building and operating 
 
 ## About Me
 
-I design and maintain ERP systems covering trade, production, sales, and logistics workflows.
+I specialize in ERP and logistics systems within data-intensive enterprise environments.
 
-My experience spans import operations, port logistics planning, and supply chain management, with a strong focus on stable, maintainable, and performance-oriented enterprise applications.
+Previously, I worked at a software vendor delivering Yard Planning and Ship Planning systems to container terminal operators.
+Based on a core product platform, I implemented customized options according to gap analysis results and operational requirements defined by project managers.
+
+Currently, I manage and evolve an in-house ERP system at a green coffee bean import company, supporting trade, production, sales, and logistics workflows.
+
+My work focuses on:
+
+- Designing scalable and maintainable ERP architectures
+- Implementing business requirements into structured system logic
+- Managing multi-database environments (MSSQL / Oracle)
+- Improving long-term system stability in live operational systems
 
 ---
 
@@ -23,12 +33,12 @@ My experience spans import operations, port logistics planning, and supply chain
 - Designed database-driven operational logic for supply chain management
 - Supported end-to-end business processes from import to distribution
 
-### Port & Logistics Planning System (4 years)
+### Port & Logistics Planning System
 
-- Developed and maintained a port logistics planning platform
-- Designed data-driven planning and scheduling logic
-- Managed high-volume operational workflows
-- Improved system performance in database-heavy environments
+- Developed and maintained Berth Planning and Yard Planning and Ship Planning systems
+- Designed scheduling and allocation logic for container yard operations
+- Implemented data-driven vessel planning workflows
+- Optimized system performance in high-volume, database-intensive environments
 
 ---
 
