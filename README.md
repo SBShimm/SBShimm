@@ -62,11 +62,11 @@ My experience spans import operations, port logistics planning, and supply chain
 ## Contact
 <a href="mailto:sksungbo@gmail.com">
   <img
-       src="https://img.shields.io/badge/Gmail-EA4335?&style=plastic&logo=Gmail&logoColor=white&link=mailto:sksungbo@gmail.com">
+       src="https://img.shields.io/badge/Gmail-EA4335?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:sksungbo@gmail.com">
 </a>
 <a href="https://open.spotify.com/user/31ppgft54asgvatjdpjncpe5orum?si=f473ddb685c646f1">
   <img
-       src="https://img.shields.io/badge/Spotify-1DB954?&style=plastic&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/31ppgft54asgvatjdpjncpe5orum?si=f473ddb685c646f1">
+       src="https://img.shields.io/badge/Spotify-1DB954?&style=for-the-badge&logo=Spotify&logoColor=white&link=https://open.spotify.com/user/31ppgft54asgvatjdpjncpe5orum?si=f473ddb685c646f1">
 </a>
 
 ---
