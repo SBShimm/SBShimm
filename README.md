@@ -48,6 +48,9 @@ My focus is on:
 
 
 ## Tech Skill
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=plastic&logo=githubcopilot&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Codex Agent](https://img.shields.io/badge/Codex_Agent-10A37F?style=plastic&logo=openai&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?&style=plastic&logo=Python&logoColor=white)
 ![CSharp](https://img.shields.io/badge/CSharp-239120?&style=plastic&logo=CSharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.Net-512BD4?&style=plastic&logo=.Net&logoColor=white)
