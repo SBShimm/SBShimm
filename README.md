@@ -77,6 +77,3 @@ balancing technical depth with real-world operational needs.
 <a href="https://open.spotify.com/user/31ppgft54asgvatjdpjncpe5orum?si=f473ddb685c646f1">
   <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
 </a>
-
-> ☕ By day: ERP & Logistics Systems  
-> 🎧 By night: Always listening.
